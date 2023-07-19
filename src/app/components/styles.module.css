@@ -1,0 +1,23 @@
+.navbar{
+  position: absolute;
+  width: 300px;
+  height: 100vh;
+  background-color: whitesmoke;
+  top: 0;
+  bottom: 0;
+}
+
+.navbar__link{
+  display: block;
+  background-color: lightgray;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+.navbar__link:hover{
+  opacity: 0.5;
+}
+
+.navbar__group_link{
+  margin-top: 20px;
+}
